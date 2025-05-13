@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"goMonkey/token"
+	"github.com/aiden007700/goMonkey/token"
 	"testing"
 )
 
