@@ -50,9 +50,7 @@ go test ./...
 - `object/` - Runtime object system
 
 ## TODO LIST
-- [ ] Add more built-in functions
-- [ ] Improve error handling
-- [ ] Add more tests
+- [ ] Add suport for floating point numbers
 
 
 
