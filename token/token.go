@@ -60,3 +60,4 @@ func LookupIdent(ident string) TokenType {
 		return tok
 	}
 	return INDENT
+}
